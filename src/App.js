@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Guitar
+          in the digital age/way
         </a>
       </header>
     </div>
